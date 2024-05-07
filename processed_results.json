@@ -1,209 +1,25 @@
 {
-    "Doompiles of kid's stuff /n alloverthe house??": {
-        "box": [
-            [
-                79.0,
-                505.0
-            ],
-            [
-                664.0,
-                503.0
-            ],
-            [
-                664.0,
-                612.0
-            ],
-            [
-                80.0,
-                612.0
-            ]
-        ],
-        "start": 7,
-        "end": 79,
-        "align": "Center align"
-    },
-    "Overwhelmed'bythe /n thought of marketplace /n \"is this available\"": {
-        "box": [
-            [
-                105.0,
-                668.0
-            ],
-            [
-                675.0,
-                672.0
-            ],
-            [
-                675.0,
-                843.0
-            ],
-            [
-                104.0,
-                844.0
-            ]
-        ],
-        "start": 121,
-        "end": 174,
-        "align": "Center align"
-    },
-    "messages?": {
-        "box": [
-            [
-                249.0,
-                878.0
-            ],
-            [
-                551.0,
-                872.0
-            ],
-            [
-                552.0,
-                913.0
-            ],
-            [
-                249.0,
-                919.0
-            ]
-        ],
-        "start": 121,
-        "end": 174,
-        "align": "None"
-    },
-    "Skipthehassle!!. /n Consign with": {
-        "box": [
-            [
-                151.0,
-                765.0
-            ],
-            [
-                568.0,
-                765.0
-            ],
-            [
-                568.0,
-                955.0
-            ],
-            [
-                151.0,
-                955.0
-            ]
-        ],
-        "start": 195,
-        "end": 266,
-        "align": "Center align"
-    },
-    "JUSTBETWEENFRIENDS /n WILLIAMSONCOUNTY!": {
-        "box": [
-            [
-                46.0,
-                976.0
-            ],
-            [
-                678.0,
-                979.0
-            ],
-            [
-                678.0,
-                1089.0
-            ],
-            [
-                46.0,
-                1087.0
-            ]
-        ],
-        "start": 195,
-        "end": 266,
-        "align": "Center align"
-    },
-    "Drop off in one location! /n Hundred of shoppers for /n 3+ days!": {
-        "box": [
-            [
-                163.0,
-                171.0
-            ],
-            [
-                596.0,
-                173.0
-            ],
-            [
-                595.0,
-                358.0
-            ],
-            [
-                163.0,
-                354.0
-            ]
-        ],
-        "start": 289,
-        "end": 341,
-        "align": "Center align"
-    },
-    "Your earnings sent /n directly to you after the /n sale!": {
-        "box": [
-            [
-                174.0,
-                416.0
-            ],
-            [
-                582.0,
-                419.0
-            ],
-            [
-                582.0,
-                549.0
-            ],
-            [
-                173.0,
-                549.0
-            ]
-        ],
-        "start": 289,
-        "end": 341,
-        "align": "Center align"
-    },
-    "Get started today!s /n Linkin our Bio for more": {
-        "box": [
-            [
-                45.0,
-                520.0
-            ],
-            [
-                672.0,
-                524.0
-            ],
-            [
-                672.0,
-                648.0
-            ],
-            [
-                45.0,
-                643.0
-            ]
-        ],
-        "start": 360,
-        "end": 382,
-        "align": "Not determined align"
-    },
-    "info!": {
-        "box": [
-            [
-                292.0,
-                672.0
-            ],
-            [
-                425.0,
-                672.0
-            ],
-            [
-                425.0,
-                727.0
-            ],
-            [
-                292.0,
-                727.0
-            ]
-        ],
-        "start": 360,
-        "end": 382,
-        "align": "None"
-    }
+"Doompiles of kid's stuff /n alloverthe house??": {
+"box": [
+[
+79.0,
+505.0
+],
+[
+664.0,
+503.0
+],
+[
+664.0,
+612.0
+],
+[
+80.0,
+612.0
+]
+],
+"start": 7,
+"end": 79,
+"align": "Center align"
+}
 }
