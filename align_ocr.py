@@ -130,8 +130,9 @@ def merge_box(result):
     for key in same_group.keys():
         
         if len(same_group[key]) > 1:  #Case: group of box
-            is_left = True
-            is_right = True
+            
+            is_left = True   #Left align
+            is_right = True     #Right align
             text = result[same_group[key][0]][1][0]
             is_process[same_group[key][0]] = True
             for i in range(1, len(same_group[key])):
